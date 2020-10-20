@@ -1,0 +1,20 @@
+{
+  "homes": [
+    {
+      "id": "1",
+      "cep": "11712330",
+      "number": "123",
+      "latitude": "111",
+      "longitude": "111",
+      "residents": "3"
+    },
+    {
+      "cep": "11712-330",
+      "number": "333",
+      "latitude": "331",
+      "longitude": "111",
+      "residents": "2",
+      "id": "Rz9yvyO"
+    }
+  ]
+}
